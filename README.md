@@ -5,7 +5,7 @@
 ### Check our website https://aligredo.github.io/wubbalubbadubdub.github.io/
 ### Enjoy our brief presentation for our work https://www.canva.com/design/DADsx1vnMSI/kLMLtmfoDqMzhxQShq1_tA/view
 
-### "Wubba Lubba Dub Dub" Team Members
+### Team Members
 - Engy Fawaz
 - Dina Hisham
 - Mohamed Maher
